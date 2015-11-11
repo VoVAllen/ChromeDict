@@ -1,0 +1,39 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+<head>
+    <title>Getting Started Extension's Popup</title>
+    <script src="jquery.min.js"></script>
+    <script src="semantic.min.js"></script>
+    <!--<script src="dropdown.min.js"></script>-->
+    <link href="semantic.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+            font-size: 100%;
+        }
+
+        #status {
+            /* avoid an excessively wide status text */
+            white-space: pre;
+            text-overflow: ellipsis;
+            overflow: hidden;
+            max-width: 400px;
+        }
+    </style>
+</head>
+<body>
+<div id="status"><b>Easy</b></div>
+<div><button class="ui blue button " id="difficulties" type="button" style="margin-left: 110px;">Difficulties</button></div>
+
+<div>
+    <button class="ui toggle button active" id="switcher" style="margin-left: 135px">On</button>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/delete.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manifest.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/popup.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/delete.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/popup.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test4hard.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test4hard.js" charset="UTF-8" />
+  </component>
+</project>
