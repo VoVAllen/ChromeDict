@@ -3257,7 +3257,6 @@ var hard = {
     "stipend": ["pay for services"],
     "stipple": ["paint or draw with dots or short strokes"],
     "stipulate": ["state as a necessary condition (of an agreement)", "make express conditions", "specify", "Ex. He stipulated payment in advance"],
-    "stock": ["standard", "kept regularly in stock or supply", "typical", "routine", "common", "Ex. stock sizes of paper", "Ex. stock excuse/character", "N: goods for sale in a shop", "OP. unique"],
     "stockade": ["wooden enclosure or pen", "fixed line of posts used as defensive barrier"],
     "stodgy": ["dull", "stuffy", "boringly conservative", "Ex. stodgy book"],
     "stoic": ["stoical", "impassive", "unmoved by joy or grief", "N. CF. stoicism"],
