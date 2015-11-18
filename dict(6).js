@@ -1491,7 +1491,6 @@ var hard = {
     "harass": ["annoy by repeated attacks"],
     "harbinger": ["forerunner (which foreshadows what is to come)"],
     "harbor": ["give protection (by giving food and shelter)", "provide a refuge for", "hide", "keep in mind (thoughts or feelings)", "Ex. harbor a grudge/criminal", "N: place of shelter", "refuge"],
-    "habitat": ["natural home of a plant or animal", "CF. habitation"],
     "hardy": ["(of people or animals) sturdy", "robust", "(of plants) able to stand inclement(stormy) weather"],
     "harping": ["tiresome dwelling on a subject", "V. harp: dwell on(think or speak a lot about) tediously"],
     "harrowing": ["agonizing", "distressing", "traumatic", "V. harrow: break up and level (soil) with a harrow", "inflict great distress on", "agonize", "N: farming machine to break up the earth"],
